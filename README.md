@@ -74,7 +74,7 @@
 ✔️ CI/CD with GitHub Actions  
 
 🔗 Project Link:  
-https://github.com/sujitmundhe/playwright-automation-framework
+https://github.com/sujitmundhe-sdet/PLAYWRIGHT_AUTOMATION_FRAMEWORK
 
 ---
 
@@ -86,7 +86,7 @@ https://github.com/sujitmundhe/playwright-automation-framework
 ✔️ CI/CD Integration  
 
 🔗 Project Link:  
-https://github.com/sujitmundhe/selenium-java-framework
+https://github.com/sujitmundhe-sdet/Java_Selenium_Framework
 
 ---
 
